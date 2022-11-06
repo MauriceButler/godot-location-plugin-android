@@ -1,0 +1,11 @@
+[config]
+
+name="LocationPlugin"
+binary_type="local"
+binary="LocationPlugin.aar"
+
+[dependencies]
+
+local=[]
+remote=["com.google.android.gms:play-services-location:21.0.1"]
+custom_maven_repos=[]
